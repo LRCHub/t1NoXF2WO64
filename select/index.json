@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ネイティブダンサー",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-04T12:48:35.420555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネイティブダンサー",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_ネイティブダンサー_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネイティブダンサー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_ネイティブダンサー_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Native Dancer [ネイティブダンサー]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Native_Dancer_[ネイティブダンサー]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ネイティブダンサー(rei harakami へっぽこre-arrange)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_ネイティブダンサー(rei_harakami_へっぽこre-arrange)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ばらの花 × ネイティブダンサー",
+      "artist": "yui (FLOWER FLOWER) × ミゾベリョウ (odol)",
+      "has_synced": true,
+      "path": "select/05_ばらの花_×_ネイティブダンサー_yui_(FLOWER_FLOWER)_×_ミゾベリョウ_(odol).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ばらの花 × ネイティブダンサー　 (Movie Edit)",
+      "artist": "yui (FLOWER FLOWER) × ミゾベリョウ (odol)",
+      "has_synced": true,
+      "path": "select/06_ばらの花_×_ネイティブダンサー_(Movie_Edit)_yui_(FLOWER_FLOWER)_×_ミゾベリョウ_(odol).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ネイティブダンサー (rei harakami へっぽこre-arrange)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/07_ネイティブダンサー_(rei_harakami_へっぽこre-arrange)_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ネイティブダンサー (rei harakami へっぽこre‐arrange)",
+      "artist": "Sakanaction (サカナクション)",
+      "has_synced": true,
+      "path": "select/08_ネイティブダンサー_(rei_harakami_へっぽこre‐arrange)_Sakanaction_(サカナクション).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ネイティブダンサー (rei harakami へっぽこ re-arrange)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_ネイティブダンサー_(rei_harakami_へっぽこ_re-arrange)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ネイティブダンサー (rei harakami へっぽこre‐arrange)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/10_ネイティブダンサー_(rei_harakami_へっぽこre‐arrange)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ネイティブダンサー (rei harakami へっぽこre-arrange)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/11_ネイティブダンサー_(rei_harakami_へっぽこre-arrange)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ネイティブダンサー",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/12_ネイティブダンサー_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サカナクション / ネイティブダンサー",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/13_サカナクション___ネイティブダンサー_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネイティブダンサー",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ネイティブダンサー_サカナクション.txt"
+    }
+  ]
+}
